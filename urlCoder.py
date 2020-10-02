@@ -1,3 +1,9 @@
+#urlCoder 
+#**Version 1.0.0**
+#copyright Jason Basden
+#Licensed under the MIT License 
+
+
 import urllib.parse
 
 userAnswer = "yes"
