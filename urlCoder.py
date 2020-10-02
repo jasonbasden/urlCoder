@@ -1,6 +1,6 @@
 #urlCoder 
 #**Version 1.0.0**
-#copyright Jason Basden
+#Copyright (c) 2020 Jason Basden
 #Licensed under the MIT License 
 
 
